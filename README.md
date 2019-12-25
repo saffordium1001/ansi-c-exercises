@@ -1,2 +1,2 @@
 # ansi-c-exercises
-ANSI C exercises to practice C
+Solutions to programming exercises for ANSI-C
